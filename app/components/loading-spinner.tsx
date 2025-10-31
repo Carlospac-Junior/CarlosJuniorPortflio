@@ -1,6 +1,6 @@
 export default function LoadingSpinner() {
   return (
-    <div className="flex items-center justify-center w-full h-full bg-[rgb(30,30,30)] bg-[radial-gradient(circle,#404040_1px,transparent_1px)] bg-[length:20px_20px]">
+    <div className="flex items-center justify-center w-full h-full bg-[#1e1e1e]">
       <svg
         className="text-gray-300 animate-spin"
         viewBox="0 0 64 64"
